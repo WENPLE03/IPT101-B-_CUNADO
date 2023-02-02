@@ -5,4 +5,4 @@ i'm Wenple Kenji Cunado a 2nd year bsit student
 ## sample code
 printf("hello heaven");
 ## How to Install
-* Setup1: Gwapo ko kaau
+* Step 1: wala pakoy idea sa git bash sir pero i want to learn gyud sir.
